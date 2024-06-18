@@ -15,6 +15,8 @@ M1 MIAGE IDA course work
 
 ### Topics and Resources
 
+**French Alternative:**[ AiForYou](https://www.youtube.com/c/AIforyouMorganGautherot) 
+
 #### 1a. Feed-Forward Neural Networks
 - Chapter 1 of Book by Michael Nielsen: [Neural Networks and Deep Learning](https://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
 - Grokking Deep Learning (Chapters 2, 3)
