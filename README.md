@@ -24,7 +24,7 @@ M1 MIAGE IDA course work
 
 #### 1b. Gradient Descent / Backpropagation
 - Grokking Deep Learning (Chapters 4, 6)
-- Chapter 2 of Book by Michael Nielsen: [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/chap2.html)
+- Chapter 2 of Book by Michael Nielsen: [Neural Networks and Deep Learning](https://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
 
 #### 2. Convolutional Neural Networks
 - Videos by Computerphile:
