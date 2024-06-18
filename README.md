@@ -16,7 +16,7 @@ M1 MIAGE IDA course work
 ### Topics and Resources
 
 #### 1a. Feed-Forward Neural Networks
-- Chapter 1 of Book by Michael Nielsen: [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/chap1.html)
+- Chapter 1 of Book by Michael Nielsen: [Neural Networks and Deep Learning](https://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
 - Grokking Deep Learning (Chapters 2, 3)
 - The 100-page Machine Learning Handbook (Chapters 3.1, 3.2, Chapter 6)
 
