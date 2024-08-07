@@ -7,6 +7,9 @@ Self Study Summer Projects
 
 M1 MIAGE IDA course work
 
+## Cheatsheet
+http://ml-cheatsheet.readthedocs.io/
+
 ### Book Recommendations
 
 - [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
